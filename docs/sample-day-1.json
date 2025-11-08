@@ -1,0 +1,21 @@
+{
+  "dayNumber": 1,
+  "exercise": [
+    {
+      "name": "Plank Hold",
+      "duration": "30s",
+      "xp": 10
+    },
+    {
+      "name": "Leg Raises",
+      "reps": 12,
+      "xp": 15
+    },
+    {
+      "name": "#L-Sit Tuck Hold",
+      "duration": "20s",
+      "xp": 20
+    }
+  ],
+  "totalXP": 45
+}
