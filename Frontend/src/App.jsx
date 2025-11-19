@@ -9,7 +9,7 @@ import { Route, Routes } from "react-router";
 
 const App = () => {
   return (
-    <div>
+    <div className="w-full h-screen">
       {/*<HomePage /> <ExercisePreviewPage/> <ExercisePage/> <AchievementPage/>*/}
       <Routes>
         <Route path="/" element={<HomePage />} />

@@ -14,7 +14,8 @@ const workoutDaySchema = new mongoose.Schema(
       },
     ],
     totalXP: { type: Number, default: 0 },
-
+    description: { type: String },
+    thumbUrl: {type: String},
     notes: { type: String },
   },
   { timestamps: true }
@@ -23,6 +24,6 @@ const workoutDaySchema = new mongoose.Schema(
 
 
 
-const WorkoutDay = mongoose.model("User", workoutDaySchema)
+const WorkoutDay = mongoose.model("WorkoutDay", workoutDaySchema)
   
 export default WorkoutDay;

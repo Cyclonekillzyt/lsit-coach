@@ -1,0 +1,93 @@
+[
+  {
+    "dayNumber": 1,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad73" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad61" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad60" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad66" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad5f" }
+    ],
+    "totalXP": 26,
+    "notes": "Foundations — light warmup (hamstring & mobility) → activation (supine marches, seated knee lifts) → core compression intro (compression hold) → simple tuck. Keep tempo slow, focus on activation and form."
+  },
+
+  {
+    "dayNumber": 2,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad75" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad62" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad6c" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad6a" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad69" }
+    ],
+    "totalXP": 36,
+    "notes": "Mobility + early support — pike & hip mobility warmup → supine knee raises → tucked hollow holds → parallette support hold for straight-arm stability → seated compression pulses to finish."
+  },
+
+  {
+    "dayNumber": 3,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad6e" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad76" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad6f" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad6b" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad6d" }
+    ],
+    "totalXP": 48,
+    "notes": "Straight-leg prep + dynamic core — lying straight-leg raises and active straight-leg lifts to load hip flexors → full hollow holds → parallette tuck lifts for compression → support shrugs for strong shoulder depression."
+  },
+
+  {
+    "dayNumber": 4,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad70" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad75" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad68" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad6a" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad6b" }
+    ],
+    "totalXP": 43,
+    "notes": "Core endurance + control — hollow rocks warmup → mobility (pike) → both-leg seated lifts for compression strength → parallette support + tuck lifts. Keep rests moderate; emphasize control on lifts."
+  },
+
+  {
+    "dayNumber": 5,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad66" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad65" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad7a" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad7b" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad71" }
+    ],
+    "totalXP": 53,
+    "notes": "Compression + loaded support — compression hold warmup → seated leg extensions from tuck → parallette advanced tuck lifts and advanced tuck support → finish with hanging knee raises to overload hip flexors."
+  },
+
+  {
+    "dayNumber": 6,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad7c" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad7d" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad84" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad82" }
+    ],
+    "totalXP": 69,
+    "notes": "High-intensity L-sit skill day — hanging straight-leg raises → hanging L-sit holds → parallettes L-sit attempts → L-sit kickouts. Target short, high-quality attempts; focus on form and shoulder depression."
+  },
+
+  {
+    "dayNumber": 7,
+    "exercises": [
+      { "position": 1, "exerciseId": "691b0215be817b0e96f3ad77" },
+      { "position": 2, "exerciseId": "691b0215be817b0e96f3ad78" },
+      { "position": 3, "exerciseId": "691b0215be817b0e96f3ad6f" },
+      { "position": 4, "exerciseId": "691b0215be817b0e96f3ad74" },
+      { "position": 5, "exerciseId": "691b0215be817b0e96f3ad69" }
+    ],
+    "totalXP": 33,
+    "notes": "Active recovery + mobility — active pike lifts → pancake lean → full hollow hold → seated forward fold → seated compression pulses. Use this day to restore movement quality and add light compression volume."
+  }
+]
+
+

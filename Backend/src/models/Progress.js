@@ -16,6 +16,6 @@ const progressSchema = new mongoose.Schema(
 
 
 
-const Progress = mongoose.model("User", progressSchema)
+const Progress = mongoose.model("Progress", progressSchema)
   
 export default Progress;
