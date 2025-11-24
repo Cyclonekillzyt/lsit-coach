@@ -20,13 +20,5 @@ const protect = async (req, res, next) => {
   }
 };
 
-export const logout = (req, res) => {
-  res.clearCookie('token', {
-    httpOnly: true,
-    secure: process.env.NODE_ENV === "production",
-    sameSite: "lax",
-  });
-  res.json({message: "Logged out"})
-}
 
 export default protect;
