@@ -11,4 +11,4 @@ export const ProgressProvider = ({ children }) => {
   );
 };
 
-export const useApp = () => useContext(ProgressContext);
+export const useProgress = () => useContext(ProgressContext);

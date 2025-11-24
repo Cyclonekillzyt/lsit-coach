@@ -7,6 +7,7 @@ import { AppProvider } from "./context/AppContext.jsx";
 import { ExerciseProvider } from "./context/ExerciseContext.jsx";
 import { ProgressProvider } from "./context/ProgressContext.jsx";
 import { TimerProvider } from "./context/TimerContext.jsx";
+import { Toaster } from "react-hot-toast";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -16,6 +17,7 @@ createRoot(document.getElementById("root")).render(
           <TimerProvider>
             <BrowserRouter>
               <App />
+              <Toaster />
             </BrowserRouter>
           </TimerProvider>
         </ProgressProvider>

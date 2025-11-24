@@ -3,9 +3,10 @@ import {  createContext, useContext, useState } from "react";
 const AppContext = createContext();
 
 export const AppProvider = ({ children }) => {
-  const [test, setTest] = useState("");
+  const [currentState, setCurrentState] = useState('login')
+ 
   return (
-    <AppContext.Provider value={{test, setTest}}> 
+    <AppContext.Provider value={{currentState, setCurrentState}}> 
       {children}
     </AppContext.Provider>
   )

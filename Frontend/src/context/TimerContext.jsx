@@ -11,4 +11,4 @@ export const TimerProvider = ({ children }) => {
   );
 };
 
-export const useApp = () => useContext(TimerContext);
+export const useTimer = () => useContext(TimerContext);
